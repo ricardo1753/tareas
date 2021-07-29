@@ -1,0 +1,64 @@
+{
+    "datos": [
+        {
+            "id": 0,
+            "nombre": "pepe",
+            "edad": 35,
+            "ciudad": "cienfuegos"
+        },
+        {
+            "id": 1,
+            "nombre": "juan",
+            "edad": 25,
+            "ciudad": "la habana"
+        },
+        {
+            "id": 2,
+            "nombre": "maria",
+            "edad": 20,
+            "ciudad": "santa clara"
+        },
+        {
+            "id": 3,
+            "nombre": "pedro",
+            "edad": 43,
+            "ciudad": "rodas"
+        },
+        {
+            "id": 4,
+            "nombre": "mario",
+            "edad": 82,
+            "ciudad": "jatibonico"
+        },
+        {
+            "id": 5,
+            "nombre": "evaristo",
+            "edad": 38,
+            "ciudad": "moron"
+        },
+        {
+            "id": 6,
+            "nombre": "angel",
+            "edad": 44,
+            "ciudad": "matanzas"
+        },
+        {
+            "id": 7,
+            "nombre": "javier",
+            "edad": 33,
+            "ciudad": "sagua"
+        },
+        {
+            "id": 8,
+            "nombre": "ana",
+            "edad": 28,
+            "ciudad": "sitiecito"
+        },
+        {
+            "id": 9,
+            "nombre": "yolanda",
+            "edad": 41,
+            "ciudad": "santiago de cuba"
+        }
+    ]
+}
